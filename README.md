@@ -69,3 +69,5 @@ Hi there 👋 I'm DongJin Sun.
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![RpgMaker](https://img.shields.io/badge/RpgMaker-000000?style=flat-square&logoColor=white)
+
+## 💼 Projects
