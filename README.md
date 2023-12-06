@@ -6,6 +6,8 @@
     <div style="position: absolute; bottom: 0; right: 0; width: 30px; height: 50px; background-color: #000;"></div>
 </div>
 
+Hi there 👋 I'm DongJin Sun.
+
 ## Skills
 
 ### Programming Languages
