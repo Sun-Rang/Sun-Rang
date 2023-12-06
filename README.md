@@ -3,10 +3,10 @@
 ## Skills
 
 ### Language
-![Python](https://img.shields.io/badge/-Python-blue)
-![C++](https://img.shields.io/badge/-C++-9cf)
-![C#](https://img.shields.io/badge/-C%23-green)
-![Java](https://img.shields.io/badge/-Java-orange)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 ### Front-End
