@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Humanity%20Guides,%20AI%20Explores&fontSize=30&fontAlignY=25&desc=Unleashing%20AI%20Potential%20in%20a%20Vast%20Tech%20Landscape.&descAlignY=55&descAlign=62)
 
-
-
 ## Skills
 
 ### Programming Languages
