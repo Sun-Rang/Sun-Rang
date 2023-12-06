@@ -1,16 +1,6 @@
-<h1 align="center">AI: The Human Echo, Humanity: The Divine Creator</h1>
+<h1 align="center">Humanity: The Divine</h1>
+<h2 align="center">AI: The Human Echo</h2>
 
-<h3 align="center">🤖 AI Mimics Humanity 🌟 Humanity Masters the AI</h3>
-
-<p align="center">
-  Embracing the human-like essence of AI, while acknowledging the unparalleled creativity of the human mind.
-  <br>
-  Celebrating the art of human intelligence in orchestrating AI wonders.
-</p>
-
-<p align="center">
-  <strong>👤 Human Ingenuity</strong> | <strong>✨ The Art of AI Mastery</strong>
-</p>
 
 
 ## Skills
