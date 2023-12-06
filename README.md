@@ -1,10 +1,13 @@
-<div style="position: relative; height: 200px; background-color: #e0e0e0; text-align: left; padding: 20px;">
-    <span style="font-size: 24px; margin-right: 10px;">👤</span><span style="font-size: 18px;">Human: Hello, World</span>
-    <div style="position: absolute; bottom: 10px; right: 10px;">
-        <span style="font-size: 24px; margin-right: 10px;">🤖</span><span style="font-size: 18px;">AI: In case I don't see you... good afternoon, good evening, and good night!</span>
+<div style="position: relative; height: 200px; background-color: #007bff; color: white; text-align: left; padding: 20px;">
+    <div style="margin-bottom: 30px;">
+        <span style="font-size: 24px;">👤</span><span style="font-size: 18px;">Human: Hello, World</span>
     </div>
-    <div style="position: absolute; bottom: 0; right: 0; width: 30px; height: 50px; background-color: #000;"></div>
+    <div style="position: absolute; bottom: 10px; right: 10px;">
+        <span style="font-size: 18px;">In case I don't see you... good afternoon, good evening, and good night! :</span><span style="font-size: 24px;"> AI 🤖</span>
+    </div>
+    <div style="position: absolute; bottom: 0; right: 0; width: 40px; height: 80px; background-color: #fff;"></div>
 </div>
+
 <p></p>
 Hi there 👋 I'm DongJin Sun.
 
