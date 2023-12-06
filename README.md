@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Humanity%20Guides,%20AI%20Explores&fontSize=30&fontAlignY=25&desc=Unleashing%20AI%20Potential%20in%20a%20Vast%20Tech%20Landscape.&descAlignY=55&descAlign=62)
+<div style="position: relative; height: 200px; background-color: #e0e0e0; text-align: left; padding: 20px;">
+    <span style="font-size: 24px; margin-right: 10px;">👤</span><span style="font-size: 18px;">Human: Hello, World</span>
+    <div style="position: absolute; bottom: 10px; right: 10px;">
+        <span style="font-size: 24px; margin-right: 10px;">🤖</span><span style="font-size: 18px;">AI: In case I don't see you... good afternoon, good evening, and good night!</span>
+    </div>
+    <div style="position: absolute; bottom: 0; right: 0; width: 30px; height: 50px; background-color: #000;"></div>
+</div>
 
 ## Skills
 
