@@ -71,3 +71,10 @@ Hi there 👋 I'm DongJin Sun.
 ![RpgMaker](https://img.shields.io/badge/RpgMaker-000000?style=flat-square&logoColor=white)
 
 ## 💼 Projects
+
+###
+Peltier Device-Powered Home Plant Cultivator
+- Developed an energy-efficient home plant cultivator using Peltier devices for sustainable living.
+###
+Child-Friendly Chat Service with Profanity Filtering
+- Created a safe chat service for primary school students, incorporating advanced profanity filtering.
